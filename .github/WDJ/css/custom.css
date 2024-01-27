@@ -1,0 +1,10 @@
+* { box-sizing: border-box;
+}
+
+h1, p{font-size: 20px;
+   text-align: center;
+  }
+h1:hover{color:pink;
+}
+p:hover{color:pink;
+}
